@@ -1,0 +1,281 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+2021/09/25 19:50:12,1545,"Learn_sql/sql/default.asp-1,122",200,OK,sql 5-3,text,true,,20627,509,10,80,https://www.w3schools.com/sql/default.asp,1536,0,1387
+2021/09/25 19:50:12,1327,"Launch_site/-1,059",200,OK,Launch site 1-6,text,true,,15528,436,10,80,https://www.w3schools.com/,1326,0,1130
+2021/09/25 19:50:12,1660,"Learn_js/js/default.asp-1,111",200,OK,Javascript 4-1,text,true,,18947,509,10,80,https://www.w3schools.com/js/default.asp,1659,0,1500
+2021/09/25 19:50:12,1291,"Learn_css/css/default.asp-1,104",200,OK,css 3-6,text,true,,18152,511,10,80,https://www.w3schools.com/css/default.asp,1284,0,1069
+2021/09/25 19:50:12,1290,"Learn_sql/sql/default.asp-1,122",200,OK,sql 5-6,text,true,,20627,509,9,78,https://www.w3schools.com/sql/default.asp,1288,0,1112
+2021/09/25 19:50:12,1680,"Launch_site/-1,059",200,OK,Launch site 1-2,text,true,,15528,436,10,76,https://www.w3schools.com/,1679,0,1502
+2021/09/25 19:50:12,1689,"Learn_php/php/default.asp-1,152",200,OK,php 7-2,text,true,,25387,513,10,76,https://www.w3schools.com/php/default.asp,1686,0,1495
+2021/09/25 19:50:12,1503,"Learn_python/python/default.asp-1,136",200,OK,python 6-4,text,true,,19380,513,10,75,https://www.w3schools.com/python/default.asp,1501,0,1303
+2021/09/25 19:50:12,1693,"Learn_HTML/html/default.asp-1,096",200,OK,Html 2-1,text,true,,18084,496,10,75,https://www.w3schools.com/html/default.asp,1692,0,1495
+2021/09/25 19:50:12,1376,"Learn_bootstrap/bootstrap/bootstrap_ver.asp-1,167",200,OK,Bootstrap 8-5,text,true,,7804,522,10,75,https://www.w3schools.com/bootstrap/bootstrap_ver.asp,1376,0,1165
+2021/09/25 19:50:12,1317,"Learn_js/js/default.asp-1,111",200,OK,Javascript 4-6,text,true,,18947,509,9,73,https://www.w3schools.com/js/default.asp,1316,0,1100
+2021/09/25 19:50:12,1536,"Learn_HTML/html/default.asp-1,096",200,OK,Html 2-4,text,true,,18084,496,10,73,https://www.w3schools.com/html/default.asp,1535,0,1319
+2021/09/25 19:50:12,1205,"Learn_bootstrap/bootstrap/bootstrap_ver.asp-1,167",200,OK,Bootstrap 8-7,text,true,,7804,522,9,72,https://www.w3schools.com/bootstrap/bootstrap_ver.asp,1204,0,982
+2021/09/25 19:50:12,1229,"Learn_sql/sql/default.asp-1,122",200,OK,sql 5-7,text,true,,20627,509,8,71,https://www.w3schools.com/sql/default.asp,1215,0,1023
+2021/09/25 19:50:12,1524,"Learn_js/js/default.asp-1,111",200,OK,Javascript 4-4,text,true,,18947,509,8,71,https://www.w3schools.com/js/default.asp,1522,0,1274
+2021/09/25 19:50:12,1474,"Learn_css/css/default.asp-1,104",200,OK,css 3-5,text,true,,18152,511,9,69,https://www.w3schools.com/css/default.asp,1470,0,1242
+2021/09/25 19:50:12,1665,"Learn_css/css/default.asp-1,104",200,OK,css 3-3,text,true,,18152,511,9,69,https://www.w3schools.com/css/default.asp,1663,0,1433
+2021/09/25 19:50:13,675,"Learn_HTML/html/default.asp-1,096",200,OK,Html 2-8,text,true,,18084,496,10,70,https://www.w3schools.com/html/default.asp,672,0,422
+2021/09/25 19:50:12,1764,"Learn_bootstrap/bootstrap/bootstrap_ver.asp-1,167",200,OK,Bootstrap 8-2,text,true,,7804,522,8,67,https://www.w3schools.com/bootstrap/bootstrap_ver.asp,1763,0,1521
+2021/09/25 19:50:12,1772,"Learn_css/css/default.asp-1,104",200,OK,css 3-2,text,true,,18152,511,7,66,https://www.w3schools.com/css/default.asp,1771,0,1524
+2021/09/25 19:50:13,714,"Learn_bootstrap/bootstrap/bootstrap_ver.asp-1,167",200,OK,Bootstrap 8-8,text,true,,7804,522,7,65,https://www.w3schools.com/bootstrap/bootstrap_ver.asp,713,0,386
+2021/09/25 19:50:12,1506,"Learn_sql/sql/default.asp-1,122",200,OK,sql 5-5,text,true,,20627,509,7,64,https://www.w3schools.com/sql/default.asp,1505,0,1237
+2021/09/25 19:50:12,1416,"Learn_php/php/default.asp-1,152",200,OK,php 7-6,text,true,,25387,513,9,63,https://www.w3schools.com/php/default.asp,1413,0,1058
+2021/09/25 19:50:12,1807,"Launch_site/-1,059",200,OK,Launch site 1-1,text,true,,15506,436,10,63,https://www.w3schools.com/,1805,0,1459
+2021/09/25 19:50:12,1329,"Learn_php/php/default.asp-1,152",200,OK,php 7-7,text,true,,25387,513,8,62,https://www.w3schools.com/php/default.asp,1326,0,960
+2021/09/25 19:50:12,1756,"Learn_HTML/html/default.asp-1,096",200,OK,Html 2-3,text,true,,18084,496,10,62,https://www.w3schools.com/html/default.asp,1755,0,1465
+2021/09/25 19:50:12,1634,"Learn_sql/sql/default.asp-1,122",200,OK,sql 5-4,text,true,,20627,509,6,61,https://www.w3schools.com/sql/default.asp,1540,0,1287
+2021/09/25 19:50:12,1822,"Learn_HTML/html/default.asp-1,096",200,OK,Html 2-2,text,true,,18084,496,10,61,https://www.w3schools.com/html/default.asp,1821,0,1466
+2021/09/25 19:50:13,745,"Learn_sql/sql/default.asp-1,122",200,OK,sql 5-10,text,true,,20627,509,5,60,https://www.w3schools.com/sql/default.asp,743,0,446
+2021/09/25 19:50:12,1672,"Learn_css/css/default.asp-1,104",200,OK,css 3-4,text,true,,18152,511,6,59,https://www.w3schools.com/css/default.asp,1670,0,1357
+2021/09/25 19:50:12,1867,"Learn_sql/sql/default.asp-1,122",200,OK,sql 5-1,text,true,,20627,509,4,58,https://www.w3schools.com/sql/default.asp,1865,0,1530
+2021/09/25 19:50:12,1444,"Learn_python/python/default.asp-1,136",200,OK,python 6-7,text,true,,19380,513,9,57,https://www.w3schools.com/python/default.asp,1423,0,1048
+2021/09/25 19:50:12,1939,"Learn_bootstrap/bootstrap/bootstrap_ver.asp-1,167",200,OK,Bootstrap 8-1,text,true,,7804,522,6,56,https://www.w3schools.com/bootstrap/bootstrap_ver.asp,1939,0,1533
+2021/09/25 19:50:12,1939,"Learn_sql/sql/default.asp-1,122",200,OK,sql 5-2,text,true,,20627,509,3,56,https://www.w3schools.com/sql/default.asp,1937,0,1541
+2021/09/25 19:50:12,1652,"Learn_php/php/default.asp-1,152",200,OK,php 7-5,text,true,,25387,513,7,54,https://www.w3schools.com/php/default.asp,1636,0,1216
+2021/09/25 19:50:12,1775,"Learn_bootstrap/bootstrap/bootstrap_ver.asp-1,167",200,OK,Bootstrap 8-4,text,true,,7804,522,5,54,https://www.w3schools.com/bootstrap/bootstrap_ver.asp,1774,0,1348
+2021/09/25 19:50:12,1851,"Launch_site/-1,059",200,OK,Launch site 1-4,text,true,,15506,436,10,52,https://www.w3schools.com/,1850,0,1421
+2021/09/25 19:50:12,1627,"Learn_HTML/html/default.asp-1,096",200,OK,Html 2-6,text,true,,18084,496,10,52,https://www.w3schools.com/html/default.asp,1626,0,1177
+2021/09/25 19:50:12,2021,"Learn_python/python/default.asp-1,136",200,OK,python 6-2,text,true,,19380,513,8,52,https://www.w3schools.com/python/default.asp,2015,0,1539
+2021/09/25 19:50:12,2028,"Launch_site/-1,059",200,OK,Launch site 1-3,text,true,,15506,436,10,51,https://www.w3schools.com/,2027,0,1509
+2021/09/25 19:50:12,1594,"Learn_css/css/default.asp-1,104",200,OK,css 3-7,text,true,,18152,511,5,51,https://www.w3schools.com/css/default.asp,1586,0,1066
+2021/09/25 19:50:12,1754,"Learn_python/python/default.asp-1,136",200,OK,python 6-5,text,true,,19380,513,7,50,https://www.w3schools.com/python/default.asp,1753,0,1222
+2021/09/25 19:50:12,2092,"Learn_php/php/default.asp-1,152",200,OK,php 7-1,text,true,,25387,513,6,49,https://www.w3schools.com/php/default.asp,2083,0,1545
+2021/09/25 19:50:12,2020,"Learn_python/python/default.asp-1,136",200,OK,python 6-3,text,true,,19380,513,6,48,https://www.w3schools.com/python/default.asp,2019,0,1453
+2021/09/25 19:50:12,2141,"Learn_css/css/default.asp-1,104",200,OK,css 3-1,text,true,,18152,511,4,47,https://www.w3schools.com/css/default.asp,2140,0,1551
+2021/09/25 19:50:12,1759,"Learn_python/python/default.asp-1,136",200,OK,python 6-6,text,true,,19380,513,5,46,https://www.w3schools.com/python/default.asp,1757,0,1142
+2021/09/25 19:50:12,1776,"Learn_bootstrap/bootstrap/bootstrap_ver.asp-1,167",200,OK,Bootstrap 8-6,text,true,,7804,522,4,45,https://www.w3schools.com/bootstrap/bootstrap_ver.asp,1775,0,1136
+2021/09/25 19:50:12,2188,"Learn_python/python/default.asp-1,136",200,OK,python 6-1,text,true,,19380,513,4,44,https://www.w3schools.com/python/default.asp,2176,0,1549
+2021/09/25 19:50:12,2139,"Learn_php/php/default.asp-1,152",200,OK,php 7-3,text,true,,25387,513,5,43,https://www.w3schools.com/php/default.asp,2119,0,1438
+2021/09/25 19:50:12,2054,"Learn_php/php/default.asp-1,152",200,OK,php 7-4,text,true,,25387,513,4,42,https://www.w3schools.com/php/default.asp,2033,0,1367
+2021/09/25 19:50:12,2029,"Launch_site/-1,059",200,OK,Launch site 1-5,text,true,,15528,436,10,41,https://www.w3schools.com/,2028,0,1335
+2021/09/25 19:50:12,2199,"Learn_js/js/default.asp-1,111",200,OK,Javascript 4-3,text,true,,18947,509,7,41,https://www.w3schools.com/js/default.asp,2194,0,1470
+2021/09/25 19:50:12,2296,"Learn_js/js/default.asp-1,111",200,OK,Javascript 4-2,text,true,,18947,509,6,40,https://www.w3schools.com/js/default.asp,2291,0,1553
+2021/09/25 19:50:12,2042,"Learn_js/js/default.asp-1,111",200,OK,Javascript 4-5,text,true,,18947,509,5,39,https://www.w3schools.com/js/default.asp,2039,0,1270
+2021/09/25 19:50:12,2067,"Learn_HTML/html/default.asp-1,096",200,OK,Html 2-5,text,true,,18084,496,10,38,https://www.w3schools.com/html/default.asp,2066,0,1293
+2021/09/25 19:50:12,2224,"Learn_bootstrap/bootstrap/bootstrap_ver.asp-1,167",200,OK,Bootstrap 8-3,text,true,,7804,522,3,38,https://www.w3schools.com/bootstrap/bootstrap_ver.asp,2223,0,1440
+2021/09/25 19:50:12,1894,"Learn_HTML/html/default.asp-1,096",200,OK,Html 2-7,text,true,,18084,496,10,37,https://www.w3schools.com/html/default.asp,1893,0,1095
+2021/09/25 19:50:12,1966,"Launch_site/-1,059",200,OK,Launch site 1-7,text,true,,15506,436,10,37,https://www.w3schools.com/,1965,0,1186
+2021/09/25 19:50:12,1919,"Learn_js/js/default.asp-1,111",200,OK,Javascript 4-7,text,true,,18947,509,4,37,https://www.w3schools.com/js/default.asp,1918,0,1168
+2021/09/25 19:50:13,1764,"Learn_js/js/default.asp-1,111",200,OK,Javascript 4-9,text,true,,18947,509,3,36,https://www.w3schools.com/js/default.asp,1763,0,1373
+2021/09/25 19:50:13,1802,"Learn_js/js/default.asp-1,111",200,OK,Javascript 4-8,text,true,,18947,509,2,35,https://www.w3schools.com/js/default.asp,1794,0,1392
+2021/09/25 19:50:13,1804,"Learn_php/php/default.asp-1,152",200,OK,php 7-9,text,true,,25387,513,3,34,https://www.w3schools.com/php/default.asp,1793,0,1381
+2021/09/25 19:50:13,1821,"Launch_site/-1,059",200,OK,Launch site 1-10,text,true,,15528,436,10,33,https://www.w3schools.com/,1819,0,1398
+2021/09/25 19:50:13,1867,"Learn_css/css/default.asp-1,104",200,OK,css 3-10,text,true,,18152,511,3,33,https://www.w3schools.com/css/default.asp,1867,0,1402
+2021/09/25 19:50:13,1884,"Learn_php/php/default.asp-1,152",200,OK,php 7-8,text,true,,25387,513,2,33,https://www.w3schools.com/php/default.asp,1854,0,1418
+2021/09/25 19:50:13,1892,"Learn_python/python/default.asp-1,136",200,OK,python 6-9,text,true,,19380,513,3,31,https://www.w3schools.com/python/default.asp,1891,0,1411
+2021/09/25 19:50:13,1917,"Learn_css/css/default.asp-1,104",200,OK,css 3-9,text,true,,18152,511,2,30,https://www.w3schools.com/css/default.asp,1916,0,1423
+2021/09/25 19:50:13,1909,"Learn_bootstrap/bootstrap/bootstrap_ver.asp-1,167",200,OK,Bootstrap 8-10,text,true,,7804,522,2,29,https://www.w3schools.com/bootstrap/bootstrap_ver.asp,1908,0,1420
+2021/09/25 19:50:13,1947,"Learn_sql/sql/default.asp-1,122",200,OK,sql 5-9,text,true,,20627,509,2,28,https://www.w3schools.com/sql/default.asp,1941,0,1442
+2021/09/25 19:50:13,1969,"Launch_site/-1,059",200,OK,Launch site 1-9,text,true,,15528,436,10,27,https://www.w3schools.com/,1968,0,1445
+2021/09/25 19:50:13,1971,"Learn_HTML/html/default.asp-1,096",200,OK,Html 2-10,text,true,,18084,496,10,27,https://www.w3schools.com/html/default.asp,1968,0,1424
+2021/09/25 19:50:13,1985,"Learn_bootstrap/bootstrap/bootstrap_ver.asp-1,167",200,OK,Bootstrap 8-9,text,true,,7804,522,1,27,https://www.w3schools.com/bootstrap/bootstrap_ver.asp,1984,0,1444
+2021/09/25 19:50:13,2004,"Learn_php/php/default.asp-1,152",200,OK,php 7-10,text,true,,25387,513,1,26,https://www.w3schools.com/php/default.asp,1995,0,1437
+2021/09/25 19:50:13,2054,"Learn_sql/sql/default.asp-1,122",200,OK,sql 5-8,text,true,,20627,509,1,25,https://www.w3schools.com/sql/default.asp,2053,0,1472
+2021/09/25 19:50:13,2053,"Learn_js/js/default.asp-1,111",200,OK,Javascript 4-10,text,true,,18947,509,1,24,https://www.w3schools.com/js/default.asp,2052,0,1449
+2021/09/25 19:50:13,2102,"Learn_css/css/default.asp-1,104",200,OK,css 3-8,text,true,,18152,511,1,23,https://www.w3schools.com/css/default.asp,2102,0,1502
+2021/09/25 19:50:13,2103,"Learn_python/python/default.asp-1,136",200,OK,python 6-10,text,true,,19380,513,2,22,https://www.w3schools.com/python/default.asp,2091,0,1478
+2021/09/25 19:50:13,2130,"Learn_python/python/default.asp-1,136",200,OK,python 6-8,text,true,,19380,513,1,21,https://www.w3schools.com/python/default.asp,2128,0,1504
+2021/09/25 19:50:13,2142,"Learn_HTML/html/default.asp-1,096",200,OK,Html 2-9,text,true,,18084,496,10,20,https://www.w3schools.com/html/default.asp,2141,0,1495
+2021/09/25 19:50:15,570,"Launch_site/lib/fonts/fontawesome.woff2-1,061",200,OK,Launch site 1-6,text,true,,9648,450,10,20,https://www.w3schools.com/lib/fonts/fontawesome.woff2?14663396,569,0,0
+2021/09/25 19:50:15,547,"Learn_HTML/lib/w3schools_footer.js-1,099",200,OK,Html 2-4,text,true,,13055,411,10,20,https://www.w3schools.com/lib/w3schools_footer.js?update=20210902,547,0,0
+2021/09/25 19:50:15,576,"Launch_site/lib/fonts/fontawesome.woff2-1,061",200,OK,Launch site 1-2,text,true,,9648,450,10,20,https://www.w3schools.com/lib/fonts/fontawesome.woff2?14663396,576,0,0
+2021/09/25 19:50:15,571,"Learn_HTML/lib/w3schools_footer.js-1,099",200,OK,Html 2-1,text,true,,13055,411,10,20,https://www.w3schools.com/lib/w3schools_footer.js?update=20210902,570,0,0
+2021/09/25 19:50:13,2461,"Launch_site/-1,059",200,OK,Launch site 1-8,text,true,,15506,436,10,20,https://www.w3schools.com/,2460,0,668
+2021/09/25 19:50:15,510,"Learn_HTML/lib/w3schools_footer.js-1,099",200,OK,Html 2-8,text,true,,13055,411,10,20,https://www.w3schools.com/lib/w3schools_footer.js?update=20210902,510,0,0
+2021/09/25 19:50:15,475,"Learn_HTML/lib/w3schools_footer.js-1,099",200,OK,Html 2-3,text,true,,13055,411,10,20,https://www.w3schools.com/lib/w3schools_footer.js?update=20210902,475,0,0
+2021/09/25 19:50:15,488,"Learn_HTML/lib/w3schools_footer.js-1,099",200,OK,Html 2-2,text,true,,13055,411,10,20,https://www.w3schools.com/lib/w3schools_footer.js?update=20210902,488,0,0
+2021/09/25 19:50:15,495,"Launch_site/lib/fonts/fontawesome.woff2-1,061",200,OK,Launch site 1-1,text,true,,9648,450,10,20,https://www.w3schools.com/lib/fonts/fontawesome.woff2?14663396,495,0,0
+2021/09/25 19:50:15,357,"Launch_site/lib/fonts/fontawesome.woff2-1,061",200,OK,Launch site 1-4,text,true,,9648,450,10,20,https://www.w3schools.com/lib/fonts/fontawesome.woff2?14663396,357,0,0
+2021/09/25 19:50:15,351,"Learn_HTML/lib/w3schools_footer.js-1,099",200,OK,Html 2-6,text,true,,13055,411,10,20,https://www.w3schools.com/lib/w3schools_footer.js?update=20210902,350,0,0
+2021/09/25 19:50:15,315,"Launch_site/lib/fonts/fontawesome.woff2-1,061",200,OK,Launch site 1-3,text,true,,9648,450,10,20,https://www.w3schools.com/lib/fonts/fontawesome.woff2?14663396,315,0,0
+2021/09/25 19:50:15,136,"Launch_site/lib/fonts/fontawesome.woff2-1,061",200,OK,Launch site 1-5,text,true,,9648,450,10,20,https://www.w3schools.com/lib/fonts/fontawesome.woff2?14663396,136,0,0
+2021/09/25 19:50:15,68,"Learn_HTML/lib/w3schools_footer.js-1,099",200,OK,Html 2-5,text,true,,13055,411,10,20,https://www.w3schools.com/lib/w3schools_footer.js?update=20210902,67,0,0
+2021/09/25 19:50:15,68,"Launch_site/lib/fonts/fontawesome.woff2-1,061",200,OK,Launch site 1-7,text,true,,9648,450,10,20,https://www.w3schools.com/lib/fonts/fontawesome.woff2?14663396,68,0,0
+2021/09/25 19:50:15,100,"Learn_HTML/lib/w3schools_footer.js-1,099",200,OK,Html 2-7,text,true,,13055,411,10,20,https://www.w3schools.com/lib/w3schools_footer.js?update=20210902,99,0,0
+2021/09/25 19:50:16,60,"Launch_site/lib/fonts/fontawesome.woff2-1,061",200,OK,Launch site 1-10,text,true,,9648,450,10,20,https://www.w3schools.com/lib/fonts/fontawesome.woff2?14663396,60,0,0
+2021/09/25 19:50:16,68,"Launch_site/lib/fonts/fontawesome.woff2-1,061",200,OK,Launch site 1-9,text,true,,9648,450,10,20,https://www.w3schools.com/lib/fonts/fontawesome.woff2?14663396,68,0,0
+2021/09/25 19:50:16,73,"Learn_HTML/lib/w3schools_footer.js-1,099",200,OK,Html 2-10,text,true,,13055,411,10,20,https://www.w3schools.com/lib/w3schools_footer.js?update=20210902,72,0,0
+2021/09/25 19:50:16,68,"Learn_HTML/lib/w3schools_footer.js-1,099",200,OK,Html 2-9,text,true,,13055,411,10,20,https://www.w3schools.com/lib/w3schools_footer.js?update=20210902,67,0,0
+2021/09/25 19:50:16,58,"Learn_HTML/images/colorpicker.gif-1,098",200,OK,Html 2-4,bin,true,,3714,404,10,20,https://www.w3schools.com/images/colorpicker.gif,58,0,0
+2021/09/25 19:50:16,64,"Launch_site/lib/fonts/source-code-pro-v14-latin-regular.woff2-1,062",200,OK,Launch site 1-6,text,true,,14257,463,10,20,https://www.w3schools.com/lib/fonts/source-code-pro-v14-latin-regular.woff2,63,0,0
+2021/09/25 19:50:16,64,"Learn_HTML/images/colorpicker.gif-1,098",200,OK,Html 2-1,bin,true,,3714,404,10,20,https://www.w3schools.com/images/colorpicker.gif,64,0,0
+2021/09/25 19:50:16,67,"Launch_site/lib/fonts/source-code-pro-v14-latin-regular.woff2-1,062",200,OK,Launch site 1-2,text,true,,14257,463,10,20,https://www.w3schools.com/lib/fonts/source-code-pro-v14-latin-regular.woff2,67,0,0
+2021/09/25 19:50:16,60,"Learn_HTML/images/colorpicker.gif-1,098",200,OK,Html 2-3,bin,true,,3714,404,10,20,https://www.w3schools.com/images/colorpicker.gif,60,0,0
+2021/09/25 19:50:16,69,"Learn_HTML/images/colorpicker.gif-1,098",200,OK,Html 2-8,bin,true,,3714,404,10,20,https://www.w3schools.com/images/colorpicker.gif,69,0,0
+2021/09/25 19:50:16,64,"Learn_HTML/images/colorpicker.gif-1,098",200,OK,Html 2-2,bin,true,,3714,404,10,20,https://www.w3schools.com/images/colorpicker.gif,64,0,0
+2021/09/25 19:50:16,70,"Launch_site/lib/fonts/source-code-pro-v14-latin-regular.woff2-1,062",200,OK,Launch site 1-1,text,true,,14257,463,10,20,https://www.w3schools.com/lib/fonts/source-code-pro-v14-latin-regular.woff2,69,0,0
+2021/09/25 19:50:16,122,"Launch_site/lib/fonts/fontawesome.woff2-1,061",200,OK,Launch site 1-8,text,true,,9648,450,10,20,https://www.w3schools.com/lib/fonts/fontawesome.woff2?14663396,122,0,0
+2021/09/25 19:50:16,69,"Launch_site/lib/fonts/source-code-pro-v14-latin-regular.woff2-1,062",200,OK,Launch site 1-4,text,true,,14257,463,10,20,https://www.w3schools.com/lib/fonts/source-code-pro-v14-latin-regular.woff2,69,0,0
+2021/09/25 19:50:16,55,"Learn_HTML/images/colorpicker.gif-1,098",200,OK,Html 2-6,bin,true,,3714,404,10,20,https://www.w3schools.com/images/colorpicker.gif,55,0,0
+2021/09/25 19:50:16,63,"Launch_site/lib/fonts/source-code-pro-v14-latin-regular.woff2-1,062",200,OK,Launch site 1-3,text,true,,14257,463,10,20,https://www.w3schools.com/lib/fonts/source-code-pro-v14-latin-regular.woff2,63,0,0
+2021/09/25 19:50:16,65,"Launch_site/lib/fonts/source-code-pro-v14-latin-regular.woff2-1,062",200,OK,Launch site 1-5,text,true,,14257,463,10,20,https://www.w3schools.com/lib/fonts/source-code-pro-v14-latin-regular.woff2,65,0,0
+2021/09/25 19:50:16,68,"Learn_HTML/images/colorpicker.gif-1,098",200,OK,Html 2-5,bin,true,,3714,404,10,20,https://www.w3schools.com/images/colorpicker.gif,68,0,0
+2021/09/25 19:50:16,74,"Launch_site/lib/fonts/source-code-pro-v14-latin-regular.woff2-1,062",200,OK,Launch site 1-7,text,true,,14257,463,10,20,https://www.w3schools.com/lib/fonts/source-code-pro-v14-latin-regular.woff2,74,0,0
+2021/09/25 19:50:16,74,"Learn_HTML/images/colorpicker.gif-1,098",200,OK,Html 2-7,bin,true,,3714,404,10,20,https://www.w3schools.com/images/colorpicker.gif,74,0,0
+2021/09/25 19:50:17,60,"Launch_site/lib/fonts/source-code-pro-v14-latin-regular.woff2-1,062",200,OK,Launch site 1-10,text,true,,14257,463,10,20,https://www.w3schools.com/lib/fonts/source-code-pro-v14-latin-regular.woff2,60,0,0
+2021/09/25 19:50:17,68,"Launch_site/lib/fonts/source-code-pro-v14-latin-regular.woff2-1,062",200,OK,Launch site 1-9,text,true,,14257,463,10,20,https://www.w3schools.com/lib/fonts/source-code-pro-v14-latin-regular.woff2,67,0,0
+2021/09/25 19:50:17,66,"Learn_HTML/images/colorpicker.gif-1,098",200,OK,Html 2-10,bin,true,,3714,404,10,20,https://www.w3schools.com/images/colorpicker.gif,66,0,0
+2021/09/25 19:50:17,65,"Learn_HTML/images/colorpicker.gif-1,098",200,OK,Html 2-9,bin,true,,3714,404,10,20,https://www.w3schools.com/images/colorpicker.gif,65,0,0
+2021/09/25 19:50:17,86,"Launch_site/lib/fonts/source-sans-pro-v14-latin-700.woff2-1,063",200,OK,Launch site 1-6,text,true,,16257,459,10,20,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-700.woff2,86,0,0
+2021/09/25 19:50:17,83,"Launch_site/lib/fonts/source-sans-pro-v14-latin-700.woff2-1,063",200,OK,Launch site 1-2,text,true,,16257,459,10,20,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-700.woff2,83,0,0
+2021/09/25 19:50:17,130,"Learn_HTML/images/htmlvideoad_footer.png-1,097",200,OK,Html 2-4,bin,true,,50424,411,10,20,https://www.w3schools.com/images/htmlvideoad_footer.png,72,0,0
+2021/09/25 19:50:17,140,"Learn_HTML/images/htmlvideoad_footer.png-1,097",200,OK,Html 2-1,bin,true,,50424,411,9,19,https://www.w3schools.com/images/htmlvideoad_footer.png,72,0,0
+2021/09/25 19:50:17,64,"Launch_site/lib/fonts/source-code-pro-v14-latin-regular.woff2-1,062",200,OK,Launch site 1-8,text,true,,14257,463,10,18,https://www.w3schools.com/lib/fonts/source-code-pro-v14-latin-regular.woff2,64,0,0
+2021/09/25 19:50:17,77,"Launch_site/lib/fonts/source-sans-pro-v14-latin-700.woff2-1,063",200,OK,Launch site 1-1,text,true,,16257,459,10,18,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-700.woff2,77,0,0
+2021/09/25 19:50:17,126,"Learn_HTML/images/htmlvideoad_footer.png-1,097",200,OK,Html 2-3,bin,true,,50424,411,8,18,https://www.w3schools.com/images/htmlvideoad_footer.png,59,0,0
+2021/09/25 19:50:17,70,"Launch_site/lib/fonts/source-sans-pro-v14-latin-700.woff2-1,063",200,OK,Launch site 1-4,text,true,,16257,459,10,17,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-700.woff2,70,0,0
+2021/09/25 19:50:17,69,"Launch_site/lib/fonts/source-sans-pro-v14-latin-700.woff2-1,063",200,OK,Launch site 1-3,text,true,,16257,459,10,17,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-700.woff2,69,0,0
+2021/09/25 19:50:17,140,"Learn_HTML/images/htmlvideoad_footer.png-1,097",200,OK,Html 2-8,bin,true,,50424,411,7,17,https://www.w3schools.com/images/htmlvideoad_footer.png,73,0,0
+2021/09/25 19:50:17,152,"Learn_HTML/images/htmlvideoad_footer.png-1,097",200,OK,Html 2-2,bin,true,,50424,411,6,16,https://www.w3schools.com/images/htmlvideoad_footer.png,81,0,0
+2021/09/25 19:50:17,83,"Launch_site/lib/fonts/source-sans-pro-v14-latin-700.woff2-1,063",200,OK,Launch site 1-5,text,true,,16257,459,10,15,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-700.woff2,83,0,0
+2021/09/25 19:50:17,168,"Learn_HTML/images/htmlvideoad_footer.png-1,097",200,OK,Html 2-6,bin,true,,50424,411,5,15,https://www.w3schools.com/images/htmlvideoad_footer.png,73,0,0
+2021/09/25 19:50:17,75,"Launch_site/lib/fonts/source-sans-pro-v14-latin-700.woff2-1,063",200,OK,Launch site 1-7,text,true,,16257,459,10,14,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-700.woff2,75,0,0
+2021/09/25 19:50:17,190,"Learn_HTML/images/htmlvideoad_footer.png-1,097",200,OK,Html 2-5,bin,true,,50424,411,4,14,https://www.w3schools.com/images/htmlvideoad_footer.png,86,0,0
+2021/09/25 19:50:17,139,"Learn_HTML/images/htmlvideoad_footer.png-1,097",200,OK,Html 2-7,bin,true,,50424,411,3,13,https://www.w3schools.com/images/htmlvideoad_footer.png,99,0,0
+2021/09/25 19:50:18,66,"Launch_site/lib/fonts/source-sans-pro-v14-latin-700.woff2-1,063",200,OK,Launch site 1-10,text,true,,16257,459,10,12,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-700.woff2,66,0,0
+2021/09/25 19:50:18,64,"Launch_site/lib/fonts/source-sans-pro-v14-latin-700.woff2-1,063",200,OK,Launch site 1-9,text,true,,16257,459,10,12,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-700.woff2,64,0,0
+2021/09/25 19:50:18,145,"Learn_HTML/images/htmlvideoad_footer.png-1,097",200,OK,Html 2-10,bin,true,,50424,411,2,12,https://www.w3schools.com/images/htmlvideoad_footer.png,71,0,0
+2021/09/25 19:50:18,64,"Launch_site/lib/fonts/roboto-mono-v13-latin-500.woff2-1,064",200,OK,Launch site 1-6,text,true,,12981,455,10,11,https://www.w3schools.com/lib/fonts/roboto-mono-v13-latin-500.woff2,64,0,0
+2021/09/25 19:50:18,67,"Launch_site/lib/fonts/roboto-mono-v13-latin-500.woff2-1,064",200,OK,Launch site 1-2,text,true,,12981,455,10,11,https://www.w3schools.com/lib/fonts/roboto-mono-v13-latin-500.woff2,67,0,0
+2021/09/25 19:50:18,155,"Learn_HTML/images/htmlvideoad_footer.png-1,097",200,OK,Html 2-9,bin,true,,50424,411,1,11,https://www.w3schools.com/images/htmlvideoad_footer.png,70,0,0
+2021/09/25 19:50:18,59,"Launch_site/lib/fonts/source-sans-pro-v14-latin-700.woff2-1,063",200,OK,Launch site 1-8,text,true,,16257,459,10,10,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-700.woff2,59,0,0
+2021/09/25 19:50:18,66,"Launch_site/lib/fonts/roboto-mono-v13-latin-500.woff2-1,064",200,OK,Launch site 1-4,text,true,,12981,455,10,10,https://www.w3schools.com/lib/fonts/roboto-mono-v13-latin-500.woff2,65,0,0
+2021/09/25 19:50:18,69,"Launch_site/lib/fonts/roboto-mono-v13-latin-500.woff2-1,064",200,OK,Launch site 1-1,text,true,,12981,455,10,10,https://www.w3schools.com/lib/fonts/roboto-mono-v13-latin-500.woff2,69,0,0
+2021/09/25 19:50:18,63,"Launch_site/lib/fonts/roboto-mono-v13-latin-500.woff2-1,064",200,OK,Launch site 1-3,text,true,,12981,455,10,10,https://www.w3schools.com/lib/fonts/roboto-mono-v13-latin-500.woff2,63,0,0
+2021/09/25 19:50:18,69,"Launch_site/lib/fonts/roboto-mono-v13-latin-500.woff2-1,064",200,OK,Launch site 1-5,text,true,,12981,455,10,10,https://www.w3schools.com/lib/fonts/roboto-mono-v13-latin-500.woff2,69,0,0
+2021/09/25 19:50:19,63,"Launch_site/lib/fonts/roboto-mono-v13-latin-500.woff2-1,064",200,OK,Launch site 1-7,text,true,,12981,455,10,10,https://www.w3schools.com/lib/fonts/roboto-mono-v13-latin-500.woff2,63,0,0
+2021/09/25 19:50:19,59,"Launch_site/lib/fonts/roboto-mono-v13-latin-500.woff2-1,064",200,OK,Launch site 1-10,text,true,,12981,455,10,10,https://www.w3schools.com/lib/fonts/roboto-mono-v13-latin-500.woff2,59,0,0
+2021/09/25 19:50:19,65,"Launch_site/lib/fonts/roboto-mono-v13-latin-500.woff2-1,064",200,OK,Launch site 1-9,text,true,,12981,455,10,10,https://www.w3schools.com/lib/fonts/roboto-mono-v13-latin-500.woff2,65,0,0
+2021/09/25 19:50:19,68,"Launch_site/lib/fonts/source-sans-pro-v14-latin-600.woff2-1,066",200,OK,Launch site 1-6,text,true,,16441,459,10,10,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-600.woff2,68,0,0
+2021/09/25 19:50:19,73,"Launch_site/lib/fonts/source-sans-pro-v14-latin-600.woff2-1,066",200,OK,Launch site 1-2,text,true,,16441,459,10,10,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-600.woff2,73,0,0
+2021/09/25 19:50:19,64,"Launch_site/lib/fonts/roboto-mono-v13-latin-500.woff2-1,064",200,OK,Launch site 1-8,text,true,,12981,455,10,10,https://www.w3schools.com/lib/fonts/roboto-mono-v13-latin-500.woff2,64,0,0
+2021/09/25 19:50:20,77,"Launch_site/lib/fonts/source-sans-pro-v14-latin-600.woff2-1,066",200,OK,Launch site 1-4,text,true,,16441,459,10,10,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-600.woff2,77,0,0
+2021/09/25 19:50:20,65,"Launch_site/lib/fonts/source-sans-pro-v14-latin-600.woff2-1,066",200,OK,Launch site 1-3,text,true,,16441,459,10,10,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-600.woff2,65,0,0
+2021/09/25 19:50:20,68,"Launch_site/lib/fonts/source-sans-pro-v14-latin-600.woff2-1,066",200,OK,Launch site 1-1,text,true,,16441,459,10,10,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-600.woff2,68,0,0
+2021/09/25 19:50:20,65,"Launch_site/lib/fonts/source-sans-pro-v14-latin-600.woff2-1,066",200,OK,Launch site 1-5,text,true,,16441,459,10,10,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-600.woff2,65,0,0
+2021/09/25 19:50:20,69,"Launch_site/lib/fonts/source-sans-pro-v14-latin-600.woff2-1,066",200,OK,Launch site 1-7,text,true,,16441,459,10,10,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-600.woff2,69,0,0
+2021/09/25 19:50:20,60,"Launch_site/lib/fonts/source-sans-pro-v14-latin-600.woff2-1,066",200,OK,Launch site 1-10,text,true,,16441,459,10,10,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-600.woff2,60,0,0
+2021/09/25 19:50:20,67,"Launch_site/lib/fonts/source-sans-pro-v14-latin-600.woff2-1,066",200,OK,Launch site 1-9,text,true,,16441,459,10,10,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-600.woff2,67,0,0
+2021/09/25 19:50:21,62,"Launch_site/lib/fonts/source-sans-pro-v14-latin-600.woff2-1,066",200,OK,Launch site 1-8,text,true,,16441,459,10,10,https://www.w3schools.com/lib/fonts/source-sans-pro-v14-latin-600.woff2,62,0,0
+2021/09/25 19:50:21,136,"Launch_site/adengine/w3schools.com/loader.js-1,065",200,OK,Launch site 1-5,text,true,,6486,387,10,10,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,136,0,53
+2021/09/25 19:50:21,213,"Launch_site/adengine/w3schools.com/loader.js-1,065",200,OK,Launch site 1-1,text,true,,6486,387,10,10,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,212,0,34
+2021/09/25 19:50:21,72,"Launch_site/adengine/w3schools.com/loader.js-1,065",200,OK,Launch site 1-7,text,true,,6486,387,10,10,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,72,0,37
+2021/09/25 19:50:21,159,"Launch_site/adengine/w3schools.com/loader.js-1,065",200,OK,Launch site 1-4,text,true,,6486,387,10,10,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,159,0,48
+2021/09/25 19:50:21,331,"Launch_site/adengine/w3schools.com/loader.js-1,065",200,OK,Launch site 1-2,text,true,,6486,387,10,10,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,331,0,97
+2021/09/25 19:50:21,197,"Launch_site/adengine/w3schools.com/loader.js-1,065",200,OK,Launch site 1-3,text,true,,6486,387,10,10,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,197,0,35
+2021/09/25 19:50:21,350,"Launch_site/adengine/w3schools.com/loader.js-1,065",200,OK,Launch site 1-6,text,true,,6486,387,10,10,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,350,0,114
+2021/09/25 19:50:21,71,"Launch_site/adengine/w3schools.com/loader.js-1,065",200,OK,Launch site 1-10,text,true,,6486,387,10,10,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,71,0,51
+2021/09/25 19:50:21,75,"Launch_site/adengine/w3schools.com/loader.js-1,065",200,OK,Launch site 1-9,text,true,,6486,387,10,10,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,75,0,50
+2021/09/25 19:50:22,68,"Launch_site/adengine/w3schools.com/loader.js-1,065",200,OK,Launch site 1-8,text,true,,6486,387,10,10,https://cdn.snigelweb.com/adengine/w3schools.com/loader.js,68,0,37
+2021/09/25 19:50:22,69,"Launch_site/lib/fonts/freckle-face-v9-latin-regular.woff2-1,067",200,OK,Launch site 1-5,text,true,,40145,459,10,10,https://www.w3schools.com/lib/fonts/freckle-face-v9-latin-regular.woff2,65,0,0
+2021/09/25 19:50:22,70,"Launch_site/lib/fonts/freckle-face-v9-latin-regular.woff2-1,067",200,OK,Launch site 1-7,text,true,,40145,459,10,10,https://www.w3schools.com/lib/fonts/freckle-face-v9-latin-regular.woff2,66,0,0
+2021/09/25 19:50:22,85,"Launch_site/lib/fonts/freckle-face-v9-latin-regular.woff2-1,067",200,OK,Launch site 1-1,text,true,,40145,459,10,10,https://www.w3schools.com/lib/fonts/freckle-face-v9-latin-regular.woff2,81,0,0
+2021/09/25 19:50:22,81,"Launch_site/lib/fonts/freckle-face-v9-latin-regular.woff2-1,067",200,OK,Launch site 1-4,text,true,,40145,459,10,10,https://www.w3schools.com/lib/fonts/freckle-face-v9-latin-regular.woff2,79,0,0
+2021/09/25 19:50:22,76,"Launch_site/lib/fonts/freckle-face-v9-latin-regular.woff2-1,067",200,OK,Launch site 1-6,text,true,,40145,459,10,10,https://www.w3schools.com/lib/fonts/freckle-face-v9-latin-regular.woff2,69,0,0
+2021/09/25 19:50:22,78,"Launch_site/lib/fonts/freckle-face-v9-latin-regular.woff2-1,067",200,OK,Launch site 1-3,text,true,,40145,459,10,10,https://www.w3schools.com/lib/fonts/freckle-face-v9-latin-regular.woff2,70,0,0
+2021/09/25 19:50:22,86,"Launch_site/lib/fonts/freckle-face-v9-latin-regular.woff2-1,067",200,OK,Launch site 1-2,text,true,,40145,459,10,10,https://www.w3schools.com/lib/fonts/freckle-face-v9-latin-regular.woff2,81,0,0
+2021/09/25 19:50:22,70,"Launch_site/lib/fonts/freckle-face-v9-latin-regular.woff2-1,067",200,OK,Launch site 1-10,text,true,,40145,459,10,10,https://www.w3schools.com/lib/fonts/freckle-face-v9-latin-regular.woff2,61,0,0
+2021/09/25 19:50:22,71,"Launch_site/lib/fonts/freckle-face-v9-latin-regular.woff2-1,067",200,OK,Launch site 1-9,text,true,,40145,459,10,10,https://www.w3schools.com/lib/fonts/freckle-face-v9-latin-regular.woff2,67,0,0
+2021/09/25 19:50:23,117,"Launch_site/lib/fonts/freckle-face-v9-latin-regular.woff2-1,067",200,OK,Launch site 1-8,text,true,,40145,459,10,10,https://www.w3schools.com/lib/fonts/freckle-face-v9-latin-regular.woff2,60,0,0
+2021/09/25 19:50:23,64,"Launch_site/lib/w3schools28.css-1,069",200,OK,Launch site 1-7,text,true,,12043,389,10,10,https://www.w3schools.com/lib/w3schools28.css,63,0,0
+2021/09/25 19:50:23,66,"Launch_site/lib/w3schools28.css-1,069",200,OK,Launch site 1-5,text,true,,12043,389,10,10,https://www.w3schools.com/lib/w3schools28.css,65,0,0
+2021/09/25 19:50:23,71,"Launch_site/lib/w3schools28.css-1,069",200,OK,Launch site 1-1,text,true,,12043,389,10,10,https://www.w3schools.com/lib/w3schools28.css,70,0,0
+2021/09/25 19:50:23,59,"Launch_site/lib/w3schools28.css-1,069",200,OK,Launch site 1-4,text,true,,12043,389,10,10,https://www.w3schools.com/lib/w3schools28.css,59,0,0
+2021/09/25 19:50:23,65,"Launch_site/lib/w3schools28.css-1,069",200,OK,Launch site 1-3,text,true,,12043,389,10,10,https://www.w3schools.com/lib/w3schools28.css,65,0,0
+2021/09/25 19:50:23,68,"Launch_site/lib/w3schools28.css-1,069",200,OK,Launch site 1-6,text,true,,12043,389,10,10,https://www.w3schools.com/lib/w3schools28.css,67,0,0
+2021/09/25 19:50:23,69,"Launch_site/lib/w3schools28.css-1,069",200,OK,Launch site 1-2,text,true,,12043,389,10,10,https://www.w3schools.com/lib/w3schools28.css,69,0,0
+2021/09/25 19:50:23,61,"Launch_site/lib/w3schools28.css-1,069",200,OK,Launch site 1-10,text,true,,12043,389,10,10,https://www.w3schools.com/lib/w3schools28.css,60,0,0
+2021/09/25 19:50:24,65,"Launch_site/lib/w3schools28.css-1,069",200,OK,Launch site 1-9,text,true,,12043,389,10,10,https://www.w3schools.com/lib/w3schools28.css,64,0,0
+2021/09/25 19:50:24,60,"Launch_site/lib/w3schools28.css-1,069",200,OK,Launch site 1-8,text,true,,12043,389,10,10,https://www.w3schools.com/lib/w3schools28.css,59,0,0
+2021/09/25 19:50:24,70,"Launch_site/lib/w3codecolor.js-1,071",200,OK,Launch site 1-7,text,true,,30504,374,10,10,https://www.w3schools.com/lib/w3codecolor.js,67,0,0
+2021/09/25 19:50:24,74,"Launch_site/lib/w3codecolor.js-1,071",200,OK,Launch site 1-5,text,true,,30504,374,10,10,https://www.w3schools.com/lib/w3codecolor.js,72,0,0
+2021/09/25 19:50:24,74,"Launch_site/lib/w3codecolor.js-1,071",200,OK,Launch site 1-1,text,true,,30504,374,10,10,https://www.w3schools.com/lib/w3codecolor.js,71,0,0
+2021/09/25 19:50:24,66,"Launch_site/lib/w3codecolor.js-1,071",200,OK,Launch site 1-4,text,true,,30504,374,10,10,https://www.w3schools.com/lib/w3codecolor.js,64,0,0
+2021/09/25 19:50:24,71,"Launch_site/lib/w3codecolor.js-1,071",200,OK,Launch site 1-6,text,true,,30504,374,10,10,https://www.w3schools.com/lib/w3codecolor.js,66,0,0
+2021/09/25 19:50:24,72,"Launch_site/lib/w3codecolor.js-1,071",200,OK,Launch site 1-3,text,true,,30504,374,10,10,https://www.w3schools.com/lib/w3codecolor.js,69,0,0
+2021/09/25 19:50:24,78,"Launch_site/lib/w3codecolor.js-1,071",200,OK,Launch site 1-2,text,true,,30504,374,10,10,https://www.w3schools.com/lib/w3codecolor.js,76,0,0
+2021/09/25 19:50:24,63,"Launch_site/lib/w3codecolor.js-1,071",200,OK,Launch site 1-10,text,true,,30504,374,10,10,https://www.w3schools.com/lib/w3codecolor.js,62,0,0
+2021/09/25 19:50:25,66,"Launch_site/lib/w3codecolor.js-1,071",200,OK,Launch site 1-9,text,true,,30504,374,10,10,https://www.w3schools.com/lib/w3codecolor.js,65,0,0
+2021/09/25 19:50:25,66,"Launch_site/lib/w3codecolor.js-1,071",200,OK,Launch site 1-8,text,true,,30504,374,10,10,https://www.w3schools.com/lib/w3codecolor.js,61,0,0
+2021/09/25 19:50:25,61,"Launch_site/lib/my-learning.js-1,070",200,OK,Launch site 1-5,text,true,,4173,382,10,10,https://www.w3schools.com/lib/my-learning.js?v=1.0.2,61,0,0
+2021/09/25 19:50:25,62,"Launch_site/lib/my-learning.js-1,070",200,OK,Launch site 1-7,text,true,,4173,382,10,10,https://www.w3schools.com/lib/my-learning.js?v=1.0.2,62,0,0
+2021/09/25 19:50:25,57,"Launch_site/lib/my-learning.js-1,070",200,OK,Launch site 1-4,text,true,,4173,382,10,10,https://www.w3schools.com/lib/my-learning.js?v=1.0.2,57,0,0
+2021/09/25 19:50:25,66,"Launch_site/lib/my-learning.js-1,070",200,OK,Launch site 1-1,text,true,,4173,382,10,10,https://www.w3schools.com/lib/my-learning.js?v=1.0.2,66,0,0
+2021/09/25 19:50:25,62,"Launch_site/lib/my-learning.js-1,070",200,OK,Launch site 1-3,text,true,,4173,382,10,10,https://www.w3schools.com/lib/my-learning.js?v=1.0.2,62,0,0
+2021/09/25 19:50:25,62,"Launch_site/lib/my-learning.js-1,070",200,OK,Launch site 1-6,text,true,,4173,382,10,10,https://www.w3schools.com/lib/my-learning.js?v=1.0.2,62,0,0
+2021/09/25 19:50:25,68,"Launch_site/lib/my-learning.js-1,070",200,OK,Launch site 1-2,text,true,,4173,382,10,10,https://www.w3schools.com/lib/my-learning.js?v=1.0.2,68,0,0
+2021/09/25 19:50:25,59,"Launch_site/lib/my-learning.js-1,070",200,OK,Launch site 1-10,text,true,,4173,382,10,10,https://www.w3schools.com/lib/my-learning.js?v=1.0.2,59,0,0
+2021/09/25 19:50:26,61,"Launch_site/lib/my-learning.js-1,070",200,OK,Launch site 1-9,text,true,,4173,382,10,10,https://www.w3schools.com/lib/my-learning.js?v=1.0.2,61,0,0
+2021/09/25 19:50:26,57,"Launch_site/lib/my-learning.js-1,070",200,OK,Launch site 1-8,text,true,,4173,382,10,10,https://www.w3schools.com/lib/my-learning.js?v=1.0.2,57,0,0
+2021/09/25 19:50:26,67,"Launch_site/images/colorpicker.png-1,073",200,OK,Launch site 1-7,bin,true,,13621,388,10,10,https://www.w3schools.com/images/colorpicker.png,67,0,0
+2021/09/25 19:50:26,67,"Launch_site/images/colorpicker.png-1,073",200,OK,Launch site 1-5,bin,true,,13621,388,10,10,https://www.w3schools.com/images/colorpicker.png,67,0,0
+2021/09/25 19:50:26,58,"Launch_site/images/colorpicker.png-1,073",200,OK,Launch site 1-4,bin,true,,13621,388,10,10,https://www.w3schools.com/images/colorpicker.png,57,0,0
+2021/09/25 19:50:26,67,"Launch_site/images/colorpicker.png-1,073",200,OK,Launch site 1-1,bin,true,,13621,388,10,10,https://www.w3schools.com/images/colorpicker.png,67,0,0
+2021/09/25 19:50:26,65,"Launch_site/images/colorpicker.png-1,073",200,OK,Launch site 1-3,bin,true,,13621,388,10,10,https://www.w3schools.com/images/colorpicker.png,65,0,0
+2021/09/25 19:50:26,67,"Launch_site/images/colorpicker.png-1,073",200,OK,Launch site 1-6,bin,true,,13621,388,10,10,https://www.w3schools.com/images/colorpicker.png,67,0,0
+2021/09/25 19:50:26,70,"Launch_site/images/colorpicker.png-1,073",200,OK,Launch site 1-2,bin,true,,13621,388,10,10,https://www.w3schools.com/images/colorpicker.png,70,0,0
+2021/09/25 19:50:27,60,"Launch_site/images/colorpicker.png-1,073",200,OK,Launch site 1-10,bin,true,,13621,388,10,10,https://www.w3schools.com/images/colorpicker.png,60,0,0
+2021/09/25 19:50:27,64,"Launch_site/images/colorpicker.png-1,073",200,OK,Launch site 1-9,bin,true,,13621,388,10,10,https://www.w3schools.com/images/colorpicker.png,64,0,0
+2021/09/25 19:50:27,71,"Launch_site/images/colorpicker.png-1,073",200,OK,Launch site 1-8,bin,true,,13621,388,10,10,https://www.w3schools.com/images/colorpicker.png,71,0,0
+2021/09/25 19:50:27,64,"Launch_site/images/w3lynx_200.png-1,074",200,OK,Launch site 1-7,bin,true,,14050,387,10,10,https://www.w3schools.com/images/w3lynx_200.png,64,0,0
+2021/09/25 19:50:27,67,"Launch_site/images/w3lynx_200.png-1,074",200,OK,Launch site 1-5,bin,true,,14050,387,10,10,https://www.w3schools.com/images/w3lynx_200.png,67,0,0
+2021/09/25 19:50:27,58,"Launch_site/images/w3lynx_200.png-1,074",200,OK,Launch site 1-4,bin,true,,14050,387,10,10,https://www.w3schools.com/images/w3lynx_200.png,58,0,0
+2021/09/25 19:50:27,71,"Launch_site/images/w3lynx_200.png-1,074",200,OK,Launch site 1-1,bin,true,,14050,387,10,10,https://www.w3schools.com/images/w3lynx_200.png,71,0,0
+2021/09/25 19:50:27,67,"Launch_site/images/w3lynx_200.png-1,074",200,OK,Launch site 1-6,bin,true,,14050,387,10,10,https://www.w3schools.com/images/w3lynx_200.png,67,0,0
+2021/09/25 19:50:27,67,"Launch_site/images/w3lynx_200.png-1,074",200,OK,Launch site 1-3,bin,true,,14050,387,10,10,https://www.w3schools.com/images/w3lynx_200.png,67,0,0
+2021/09/25 19:50:27,70,"Launch_site/images/w3lynx_200.png-1,074",200,OK,Launch site 1-2,bin,true,,14050,387,10,10,https://www.w3schools.com/images/w3lynx_200.png,70,0,0
+2021/09/25 19:50:28,59,"Launch_site/images/w3lynx_200.png-1,074",200,OK,Launch site 1-10,bin,true,,14050,387,10,10,https://www.w3schools.com/images/w3lynx_200.png,59,0,0
+2021/09/25 19:50:28,73,"Launch_site/images/w3lynx_200.png-1,074",200,OK,Launch site 1-9,bin,true,,14050,387,10,10,https://www.w3schools.com/images/w3lynx_200.png,73,0,0
+2021/09/25 19:50:28,61,"Launch_site/images/w3lynx_200.png-1,074",200,OK,Launch site 1-8,bin,true,,14050,387,10,10,https://www.w3schools.com/images/w3lynx_200.png,61,0,0
+2021/09/25 19:50:28,80,"Launch_site/w3css_templates.jpg-1,072",200,OK,Launch site 1-4,bin,true,,62188,385,10,10,https://www.w3schools.com/w3css_templates.jpg,67,0,0
+2021/09/25 19:50:28,84,"Launch_site/w3css_templates.jpg-1,072",200,OK,Launch site 1-1,bin,true,,62188,385,10,10,https://www.w3schools.com/w3css_templates.jpg,78,0,0
+2021/09/25 19:50:28,160,"Launch_site/w3css_templates.jpg-1,072",200,OK,Launch site 1-3,bin,true,,62188,385,10,10,https://www.w3schools.com/w3css_templates.jpg,73,0,0
+2021/09/25 19:50:28,162,"Launch_site/w3css_templates.jpg-1,072",200,OK,Launch site 1-6,bin,true,,62188,385,10,10,https://www.w3schools.com/w3css_templates.jpg,75,0,0
+2021/09/25 19:50:28,210,"Launch_site/w3css_templates.jpg-1,072",200,OK,Launch site 1-2,bin,true,,62188,385,10,10,https://www.w3schools.com/w3css_templates.jpg,153,0,0
+2021/09/25 19:50:28,331,"Launch_site/w3css_templates.jpg-1,072",200,OK,Launch site 1-7,bin,true,,62188,385,10,10,https://www.w3schools.com/w3css_templates.jpg,70,0,0
+2021/09/25 19:50:28,332,"Launch_site/w3css_templates.jpg-1,072",200,OK,Launch site 1-5,bin,true,,62188,385,10,10,https://www.w3schools.com/w3css_templates.jpg,66,0,0
+2021/09/25 19:50:29,71,"Launch_site/w3css_templates.jpg-1,072",200,OK,Launch site 1-10,bin,true,,62188,385,10,10,https://www.w3schools.com/w3css_templates.jpg,62,0,0
+2021/09/25 19:50:29,74,"Launch_site/w3css_templates.jpg-1,072",200,OK,Launch site 1-9,bin,true,,62188,385,10,10,https://www.w3schools.com/w3css_templates.jpg,68,0,0
+2021/09/25 19:50:29,123,"Launch_site/w3css_templates.jpg-1,072",200,OK,Launch site 1-8,bin,true,,62188,385,10,10,https://www.w3schools.com/w3css_templates.jpg,60,0,0
+2021/09/25 19:50:29,60,"Launch_site/howto/tryhow_css_sidenav_ifr2.htm-1,077",200,OK,Launch site 1-4,text,true,,1330,491,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr2.htm,60,0,0
+2021/09/25 19:50:29,87,"Launch_site/howto/tryhow_css_sidenav_ifr2.htm-1,077",200,OK,Launch site 1-1,text,true,,1330,491,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr2.htm,87,0,0
+2021/09/25 19:50:29,63,"Launch_site/howto/tryhow_css_sidenav_ifr2.htm-1,077",200,OK,Launch site 1-3,text,true,,1330,491,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr2.htm,63,0,0
+2021/09/25 19:50:29,66,"Launch_site/howto/tryhow_css_sidenav_ifr2.htm-1,077",200,OK,Launch site 1-6,text,true,,1330,491,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr2.htm,66,0,0
+2021/09/25 19:50:30,65,"Launch_site/howto/tryhow_css_sidenav_ifr2.htm-1,077",200,OK,Launch site 1-2,text,true,,1330,491,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr2.htm,65,0,0
+2021/09/25 19:50:30,60,"Launch_site/howto/tryhow_css_sidenav_ifr2.htm-1,077",200,OK,Launch site 1-5,text,true,,1330,491,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr2.htm,60,0,0
+2021/09/25 19:50:30,61,"Launch_site/howto/tryhow_css_sidenav_ifr2.htm-1,077",200,OK,Launch site 1-7,text,true,,1330,491,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr2.htm,61,0,0
+2021/09/25 19:50:30,56,"Launch_site/howto/tryhow_css_sidenav_ifr2.htm-1,077",200,OK,Launch site 1-10,text,true,,1330,491,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr2.htm,56,0,0
+2021/09/25 19:50:30,61,"Launch_site/howto/tryhow_css_sidenav_ifr2.htm-1,077",200,OK,Launch site 1-9,text,true,,1330,491,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr2.htm,61,0,0
+2021/09/25 19:50:30,57,"Launch_site/howto/tryhow_css_sidenav_ifr2.htm-1,077",200,OK,Launch site 1-8,text,true,,1330,491,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr2.htm,57,0,0
+2021/09/25 19:50:30,59,"Launch_site/howto/tryhow_css_sidenav_ifr.htm-1,076",200,OK,Launch site 1-4,text,true,,1331,490,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr.htm,59,0,0
+2021/09/25 19:50:31,68,"Launch_site/howto/tryhow_css_sidenav_ifr.htm-1,076",200,OK,Launch site 1-1,text,true,,1331,490,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr.htm,68,0,0
+2021/09/25 19:50:31,65,"Launch_site/howto/tryhow_css_sidenav_ifr.htm-1,076",200,OK,Launch site 1-3,text,true,,1331,490,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr.htm,65,0,0
+2021/09/25 19:50:31,65,"Launch_site/howto/tryhow_css_sidenav_ifr.htm-1,076",200,OK,Launch site 1-6,text,true,,1331,490,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr.htm,65,0,0
+2021/09/25 19:50:31,80,"Launch_site/howto/tryhow_css_sidenav_ifr.htm-1,076",200,OK,Launch site 1-2,text,true,,1331,490,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr.htm,80,0,0
+2021/09/25 19:50:31,65,"Launch_site/howto/tryhow_css_sidenav_ifr.htm-1,076",200,OK,Launch site 1-5,text,true,,1331,490,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr.htm,65,0,0
+2021/09/25 19:50:31,65,"Launch_site/howto/tryhow_css_sidenav_ifr.htm-1,076",200,OK,Launch site 1-7,text,true,,1331,490,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr.htm,65,0,0
+2021/09/25 19:50:31,56,"Launch_site/howto/tryhow_css_sidenav_ifr.htm-1,076",200,OK,Launch site 1-10,text,true,,1331,490,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr.htm,56,0,0
+2021/09/25 19:50:31,63,"Launch_site/howto/tryhow_css_sidenav_ifr.htm-1,076",200,OK,Launch site 1-9,text,true,,1331,490,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr.htm,63,0,0
+2021/09/25 19:50:31,57,"Launch_site/howto/tryhow_css_sidenav_ifr.htm-1,076",200,OK,Launch site 1-8,text,true,,1331,490,10,10,https://www.w3schools.com/howto/tryhow_css_sidenav_ifr.htm,57,0,0
+2021/09/25 19:50:32,61,"Launch_site/about/w3codes.png-1,079",200,OK,Launch site 1-4,bin,true,,18311,383,10,10,https://www.w3schools.com/about/w3codes.png,61,0,0
+2021/09/25 19:50:32,70,"Launch_site/about/w3codes.png-1,079",200,OK,Launch site 1-1,bin,true,,18311,383,10,10,https://www.w3schools.com/about/w3codes.png,69,0,0
+2021/09/25 19:50:32,70,"Launch_site/about/w3codes.png-1,079",200,OK,Launch site 1-6,bin,true,,18311,383,10,10,https://www.w3schools.com/about/w3codes.png,69,0,0
+2021/09/25 19:50:32,72,"Launch_site/about/w3codes.png-1,079",200,OK,Launch site 1-3,bin,true,,18311,383,10,10,https://www.w3schools.com/about/w3codes.png,71,0,0
+2021/09/25 19:50:32,74,"Launch_site/about/w3codes.png-1,079",200,OK,Launch site 1-2,bin,true,,18311,383,10,10,https://www.w3schools.com/about/w3codes.png,73,0,0
+2021/09/25 19:50:32,77,"Launch_site/about/w3codes.png-1,079",200,OK,Launch site 1-7,bin,true,,18311,383,10,10,https://www.w3schools.com/about/w3codes.png,77,0,0
+2021/09/25 19:50:32,78,"Launch_site/about/w3codes.png-1,079",200,OK,Launch site 1-5,bin,true,,18311,383,10,10,https://www.w3schools.com/about/w3codes.png,78,0,0
+2021/09/25 19:50:32,62,"Launch_site/about/w3codes.png-1,079",200,OK,Launch site 1-10,bin,true,,18311,383,10,10,https://www.w3schools.com/about/w3codes.png,62,0,0
+2021/09/25 19:50:32,71,"Launch_site/about/w3codes.png-1,079",200,OK,Launch site 1-9,bin,true,,18311,383,10,10,https://www.w3schools.com/about/w3codes.png,71,0,0
+2021/09/25 19:50:32,63,"Launch_site/about/w3codes.png-1,079",200,OK,Launch site 1-8,bin,true,,18311,383,10,10,https://www.w3schools.com/about/w3codes.png,62,0,0
+2021/09/25 19:50:33,1057,"Launch_site/api/meta-for-default/-1,078",200,OK,Launch site 1-4,text,true,,578,483,10,10,https://my-learning.w3schools.com/api/meta-for-default/,1056,0,810
+2021/09/25 19:50:33,1043,"Launch_site/api/meta-for-default/-1,078",200,OK,Launch site 1-1,text,true,,578,483,9,9,https://my-learning.w3schools.com/api/meta-for-default/,1043,0,785
+2021/09/25 19:50:33,1049,"Launch_site/api/meta-for-default/-1,078",200,OK,Launch site 1-6,text,true,,578,483,8,8,https://my-learning.w3schools.com/api/meta-for-default/,1049,0,791
+2021/09/25 19:50:33,1066,"Launch_site/api/meta-for-default/-1,078",200,OK,Launch site 1-3,text,true,,578,483,7,7,https://my-learning.w3schools.com/api/meta-for-default/,1066,0,801
+2021/09/25 19:50:33,1058,"Launch_site/api/meta-for-default/-1,078",200,OK,Launch site 1-2,text,true,,578,483,6,6,https://my-learning.w3schools.com/api/meta-for-default/,1058,0,799
+2021/09/25 19:50:33,1077,"Launch_site/api/meta-for-default/-1,078",200,OK,Launch site 1-7,text,true,,578,483,5,5,https://my-learning.w3schools.com/api/meta-for-default/,1077,0,817
+2021/09/25 19:50:33,1092,"Launch_site/api/meta-for-default/-1,078",200,OK,Launch site 1-5,text,true,,578,483,4,4,https://my-learning.w3schools.com/api/meta-for-default/,1092,0,826
+2021/09/25 19:50:33,1095,"Launch_site/api/meta-for-default/-1,078",200,OK,Launch site 1-10,text,true,,578,483,3,3,https://my-learning.w3schools.com/api/meta-for-default/,1095,0,828
+2021/09/25 19:50:33,1027,"Launch_site/api/meta-for-default/-1,078",200,OK,Launch site 1-9,text,true,,578,483,2,2,https://my-learning.w3schools.com/api/meta-for-default/,1026,0,774
+2021/09/25 19:50:34,1059,"Launch_site/api/meta-for-default/-1,078",200,OK,Launch site 1-8,text,true,,578,483,1,1,https://my-learning.w3schools.com/api/meta-for-default/,1059,0,799
